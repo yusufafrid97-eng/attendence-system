@@ -5,4 +5,4 @@ and students can mark attendance using mobile phones.
 Tech Stack:
 - Frontend: React (PWA)
 - Backend: Node.js + Express
-- Database: Mongo
+- Database: Mongo db
